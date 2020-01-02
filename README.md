@@ -24,7 +24,6 @@ Python 3.6 :
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html
 OpenCV:
 https://pypi.org/project/opencv-python/
-
 ```
  
  ## Running the application:
