@@ -1,6 +1,32 @@
 # Smile_Detector
  This computer vision model uses OpenCv Haar-cascadec classifiers to detect fronal face and within the region of face, looks for eyes and ssmile. The program uses laptop's webcam to access live video, extracts its frame, detects the features and draws rectangle surrounding the feature and combines back the frames to output video in real time.
  
+ ## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+you need to install
+
+```
+Anaconda
+Python 3.6
+OpenCV
+```
+
+### Installing
+
+```
+Anaconda :
+https://docs.anaconda.com/anaconda/install/
+Python 3.6 :
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html
+OpenCV:
+https://pypi.org/project/opencv-python/
+
+```
+ 
  ## Running the application:
  
  
