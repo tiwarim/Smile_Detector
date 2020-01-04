@@ -5,7 +5,7 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### System Prerequisites
 
 you need to install
 
@@ -20,8 +20,10 @@ OpenCV
 ```
 Anaconda :
 https://docs.anaconda.com/anaconda/install/
+
 Python 3.6 :
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html
+
 OpenCV:
 https://pypi.org/project/opencv-python/
 ```
